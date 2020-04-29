@@ -1,2 +1,2 @@
 # GCM-C
-Basic implementation of GCM encryption algorithm
+Basic implementation of GCM encryption algorithm in C 
