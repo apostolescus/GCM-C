@@ -107,18 +107,14 @@ BYTE *crypt_plaintext(BYTE *iv, AES_KEY enckey, BYTE *hash, BYTE *auth_tag, int 
     }
     
     if ( rest !=0 ){
-        //aici este problema
+  
         int j=15-rest;
         while(j<16){
             buffer[j] = rest;
             j++;
             printf("val lui j este: %d\n",j);
         }
-        //ce este gresit la acest for?
-        // for(int j=1; j++; j<16){
-        //     printf("val lui j este: %d\n",j);
-        //      buffer[j] = rest;
-        // }
+ 
         crypt_block(iv, enckey, buffer, hash, crypted);
         memcpy(crypted_text+16*counter,crypted,16);
         counter++;
