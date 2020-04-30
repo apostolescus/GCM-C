@@ -1,10 +1,10 @@
 # GCM-C
 ## STILL IN WORK !
 Basic implementation of GCM encryption algorithm in C 
-Done:
+1. Done:
 - [x] encryption
 - [x] generate auth tag
-In progress:
+2. In progress:
 - [ ] decryption
 - [ ] multiplication in GF not working
 - [ ] check auth tag
