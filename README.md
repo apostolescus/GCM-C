@@ -9,4 +9,4 @@ Basic implementation of GCM encryption algorithm in C
 - [ ] multiplication in GF not working
 - [ ] check auth tag
 
-PKCS#7 padding
+Using PKCS#7 padding
