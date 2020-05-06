@@ -3,6 +3,9 @@
 ## Schoolar Project don't use in Production
 ### Basic implementation of GCM encryption algorithm in C.
 
++ this text is highlighted in green
+- this text is highlighted in red
+
 Algorithm description:<br>
 This implementation reads data from an input file, generates the crypted text file, and decrypte it in other file.<br>
 It uses MD5 instead of Galois Field Multiplication for initial hash generating. I tried to implement bitwise GF Multiplication in byte_multiplication.c but I was not successful.
