@@ -1,6 +1,6 @@
 
 # GCM-C :crystal_ball:
-## Schoolar Project Don't use in Production
+## Schoolar Project don't use in Production
 ### Basic implementation of GCM encryption algorithm in C.
 
 Algorithm description:<br>
@@ -25,4 +25,4 @@ It uses MD5 instead of Galois Field Multiplication for initial hash generating. 
    <br> ex: gcc ./gcm.c -o gcm -lcrypto
 
 
-Using PKCS#7 padding
+### Using PKCS#7 padding
