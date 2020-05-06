@@ -1,5 +1,5 @@
-![alt text](https://img.icons8.com/officel/2x/security-aes.png)
-# GCM-C
+
+# GCM-C ![alt text](https://img.icons8.com/officel/2x/security-aes.png)
 ## Schoolar Project Don't use in Production
 ### Basic implementation of GCM encryption algorithm in C.
 
