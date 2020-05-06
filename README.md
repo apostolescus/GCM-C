@@ -1,5 +1,5 @@
 
-# GCM-C ![alt text](https://img.icons8.com/officel/2x/security-aes.png)
+# GCM-C :shipit:
 ## Schoolar Project Don't use in Production
 ### Basic implementation of GCM encryption algorithm in C.
 
