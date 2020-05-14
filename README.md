@@ -1,6 +1,5 @@
 
 # GCM-C :crystal_ball:
-## Schoolar Project don't use in Production
 ### Basic implementation of GCM encryption algorithm in C.
 
 Algorithm description:<br>
